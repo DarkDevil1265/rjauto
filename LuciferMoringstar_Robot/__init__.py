@@ -18,7 +18,7 @@ HELP = """
 """
 
 ABOUT = """
-➥ Name :  Jeff bezos bot
+➥ Name : [Jeff bezos bot](https://t.me/Jef_Bezos_bot)
     
 ➥ Creator : [RJ](https://t.me/malluinstafollowers)
 
@@ -26,5 +26,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Working channel : [📢Join Our Group📢](https://t.me/Moviee_Hall)
+➥ Working channel : [JOIN OUR GROUP](https://t.me/Moviee_Hall)
 """
