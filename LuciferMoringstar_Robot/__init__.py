@@ -30,5 +30,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Working channel : [JOIN OUR GROUP](https://t.me/Moviee_Hall)
+➥ Working channel : [JOIN OUR GROUP](https://t.me/Movvie_Hall)
 """
